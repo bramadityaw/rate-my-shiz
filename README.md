@@ -1,5 +1,5 @@
 # Rate My Shiz
 
-A web app where you can rate pictures someone had uploaded.
+A web app where you can upload pictures and rate others'.
 
 Currently under development
