@@ -1,0 +1,29 @@
+@import './base.css';
+
+#app {
+  margin-top: 1.5rem;
+}
+
+#star-rating {
+  width: fit-content;
+  margin-bottom: 0.8em;
+}
+
+#star-rating .star {
+  height: 3.6rem;
+  width: auto;
+}
+
+#star-rating button + button {
+  margin-left: .6em
+}
+
+#star-rating button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+#star-rating button:disabled {
+  cursor: auto;
+}
